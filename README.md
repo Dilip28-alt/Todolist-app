@@ -24,4 +24,4 @@ It allows users to add, edit, delete, and mark tasks as completed.
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Dilip28-alt/Todolist-app.git
