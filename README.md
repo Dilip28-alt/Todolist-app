@@ -23,4 +23,5 @@ It allows users to add, edit, delete, and mark tasks as completed.
 ## 📦 Installation & Setup
 
 Clone the repository:
-git clone https://github.com/Dilip28-alt/todo-app.git
+```bash
+git clone https://github.com/your-username/todo-app.git
